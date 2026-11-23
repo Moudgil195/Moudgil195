@@ -4,8 +4,8 @@
 
 I build backend systems in C# and .NET: Web APIs, SQL Server, and the architecture that keeps them simple to change. Day job: ~4 years building .NET services, currently in travel tech.
 
-### 🔨 Building now: GlassLink ERP
-An inventory, billing, credit (*udhaar*) and accounting system for small wholesale businesses in India. It started with my family's glass-hardware shop.
+### 🔨 Building now: the ERP for Glass Link Enterprise
+Inventory, billing, credit (*udhaar*) and accounting for **Glass Link Enterprise**, my family's glass-hardware wholesale business in Kaithal, Haryana. Built so other wholesalers can use it too.
 
 - **Architecture:** modular monolith (.NET 10, Minimal APIs, vertical slices), module boundaries enforced by architecture tests
 - **Data:** EF Core + SQL Server, multi-tenant via global query filters, append-only audit trail, Guid v7 keys
